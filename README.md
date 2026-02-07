@@ -65,7 +65,7 @@ The SBS Mapping System is an AI-powered tool designed for healthcare providers a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sbs-mapping-system.git
+git clone https://github.com/INFINITYP0WER/sbs-mapping-system.git
 cd sbs-mapping-system
 
 # Install dependencies
@@ -305,7 +305,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/sbs-mapping-system.git
+git clone https://github.com/INFINITYP0WER/sbs-mapping-system.git
 cd sbs-mapping-system
 
 # Create virtual environment
@@ -346,8 +346,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 1. 📖 Read the [Quick Start Guide](QUICK_START_GUIDE.md)
 2. 📚 Check [Complete Documentation](SBS_MAPPING_DOCUMENTATION.md)
-3. 🔍 Search [existing issues](https://github.com/yourusername/sbs-mapping-system/issues)
-4. ❓ Create a [new issue](https://github.com/yourusername/sbs-mapping-system/issues/new)
+3. 🔍 Search [existing issues](https://github.com/INFINITYP0WER/sbs-mapping-system/issues)
+4. ❓ Create a [new issue](https://github.com/INFINITYP0WER/sbs-mapping-system/issues/new)
 
 ### Reporting Issues
 
@@ -383,9 +383,9 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## 📊 Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/sbs-mapping-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/sbs-mapping-system?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/sbs-mapping-system?style=social)
+![GitHub stars](https://img.shields.io/github/stars/INFINITYP0WER/sbs-mapping-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/INFINITYP0WER/sbs-mapping-system?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/INFINITYP0WER/sbs-mapping-system?style=social)
 
 ---
 
@@ -399,8 +399,8 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 **Made with ❤️ for Healthcare Providers in Saudi Arabia**
 
-[Report Bug](https://github.com/yourusername/sbs-mapping-system/issues) •
-[Request Feature](https://github.com/yourusername/sbs-mapping-system/issues) •
+[Report Bug](https://github.com/INFINITYP0WER/sbs-mapping-system/issues) •
+[Request Feature](https://github.com/INFINITYP0WER/sbs-mapping-system/issues) •
 [Documentation](docs/)
 
 </div>
